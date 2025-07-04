@@ -1,6 +1,23 @@
 body{
+color: rgb(255, 39, 39);
+background-color: black;
+margin 0px;
+margin-bottom: 100px;
+}
 
- color: #000000;
-background-color:#696969;
 
+hearder{
+    border-bottom: solid 2px #8B0000;
+    margin: 20px;
+    font-size: 32px;
+    color:firebrick;
+}
+
+section{
+
+    padding-bottom: 80px;
+    padding-top: 80px;
+    background: #808080;
+    display: flex;
+    justify-content: center;
 }
